@@ -372,8 +372,8 @@ a:hover {
 
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand {
-    float: right;
-    position: relative;
+    float: none;
+    position:relative;
     z-index: 2;
 }
 
